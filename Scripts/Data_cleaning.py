@@ -21,3 +21,8 @@ class clean_data():
             information = self.df.isna().sum()
         
         return information
+    
+    def fix_outliers(self,df,column):
+        df[column] = np.where(df[column] > df[column].quantile(0.95), df[column].median(),df[column])
+    
+        return df[column]
