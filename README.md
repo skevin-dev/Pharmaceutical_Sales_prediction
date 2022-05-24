@@ -8,10 +8,11 @@ The goal of this project is to use Machine and Deep Learning to predict sales si
 
 # installation 
 
-git clone
-jupyter notebook
+`git clone`
 
-Skills implemented in this project 
+`jupyter notebook`
+
+# Skills implemented in this project 
 
 Advanced use of scikit-learn
 Feature Engineering
