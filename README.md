@@ -8,18 +8,21 @@ The goal of this project is to use Machine and Deep Learning to predict sales si
 
 # installation 
 
-`git clone`
-
-`jupyter notebook`
+```
+git clone
+```
+```
+jupyter notebook`
+```
 
 # Skills implemented in this project 
 
 * Advanced use of scikit-learn
 * Feature Engineering
-ML Model building and fine-tuning
-CI/CD deployment of ML models
-Python logging
-Unit testing
-Building dashboards
-Model management
-MLOps with DVC, CML, and MLFlow
+* ML Model building and fine-tuning
+* CI/CD deployment of ML models
+* Python logging
+* Unit testing
+* Building dashboards
+* Model management
+* MLOps with DVC, CML, and MLFlow
