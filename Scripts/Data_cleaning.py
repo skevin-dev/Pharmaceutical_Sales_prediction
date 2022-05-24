@@ -88,10 +88,11 @@ class clean_data():
         df = df.drop_duplicates(subset=[column])
         return df 
     
-    # merge datasets 
-    def merge(df,df1,column):
-        df_merged = pd.merge(df,df1,how="left",on=column)
-        return df_merged
-    
+    def transform_columns(self,df,column):
+        df['Days'] = df[column].dt.day
+        df['months'] = df[column].dt.month
+        df['Years'] = df[column].dt.year
+        df['DayOfYear'] = df[column].dt.dayofyear
+        df['WeekOfYear'] = df[column].dt.weekofyear
     
     
