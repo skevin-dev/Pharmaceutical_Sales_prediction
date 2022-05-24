@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
+sns.set()
 
 class Data_visualiz:
     
@@ -7,9 +8,13 @@ class Data_visualiz:
         """
         initializing data_visualiz class
         """
-        
-    def boxplot(df,column):
+     #plot boxplot    
+    def boxplot(self,df,column):
         sns.boxplot(x = df[column])
         plt.title(f"boxplot of {column}")
         plt.ylabel("values")
         plt.show()
+     #plot histograms  
+    def histogram(self,df):
+        num_cols = df.select_dtypes(include=['int64','float64']).columns.tolist()
+        df[num_cols].hist(figsize=(20,20))
