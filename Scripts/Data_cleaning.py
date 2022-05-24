@@ -79,6 +79,10 @@ class clean_data():
         unique_values = df[column].unique()
         return unique_values
     
+    #drop rows with nan values:
+    def drop_rows(self,df):
+        df.dropna(inplace=True)
+    
     #drop duplicate
     def drop_duplicate(self,df,column):
         df = df.drop_duplicates(subset=[column])
