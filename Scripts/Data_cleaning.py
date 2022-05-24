@@ -72,7 +72,7 @@ class clean_data():
      #fill nan values with values       
     def filling_nan(self,df, cols, value):
         for col in cols:
-            df[col] = df[col].fillna(value)
+            df[col].fillna(value,inplace=True)
        
     # unique values in columns
     def unique_values(self,df,column):
