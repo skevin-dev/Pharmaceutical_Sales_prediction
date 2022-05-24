@@ -14,8 +14,8 @@ The goal of this project is to use Machine and Deep Learning to predict sales si
 
 # Skills implemented in this project 
 
-Advanced use of scikit-learn
-Feature Engineering
+* Advanced use of scikit-learn
+* Feature Engineering
 ML Model building and fine-tuning
 CI/CD deployment of ML models
 Python logging
