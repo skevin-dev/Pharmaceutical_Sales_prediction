@@ -17,12 +17,16 @@ jupyter notebook`
 
 # Skills implemented in this project 
 
-* Advanced use of scikit-learn
-* Feature Engineering
+* Building dashboards
+* Model management
+* MLOps with DVC, CML, and MLFlow
 * ML Model building and fine-tuning
 * CI/CD deployment of ML models
 * Python logging
 * Unit testing
-* Building dashboards
-* Model management
-* MLOps with DVC, CML, and MLFlow
+* Advanced use of scikit-learn
+* Feature Engineering
+
+# Data 
+
+The data used in the project is generated automatically by Rossman Pharmaceutical company and is avalaible [here](https://drive.google.com/file/d/1EgqYG4gN3GKtMhmPala81dEsFpFVm97j/view)
