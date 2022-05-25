@@ -14,7 +14,7 @@ git clone
 ```
 jupyter notebook`
 ```
-# ML Pipeline design/setup
+# ML Pipeline design
 ![image](https://user-images.githubusercontent.com/49780811/169189105-b9e10399-fb16-4651-87f9-7126535435f4.png)
 
 
