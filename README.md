@@ -15,7 +15,7 @@ git clone
 jupyter notebook`
 ```
 # ML pipeline design 
-![image!](C:\Users\Kevin Shyaka\Desktop\SPRING22\10 academy\New Flowchart.jpg)
+![image](C:\Users\Kevin Shyaka\Desktop\SPRING22\10 academy\New Flowchart.jpg)
 
 # Skills implemented in this project 
 
