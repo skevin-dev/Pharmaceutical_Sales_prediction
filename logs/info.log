@@ -1,0 +1,251 @@
+2022-05-25 14:32:33,586:Scripts.App_log:initializing class
+2022-05-25 14:32:33,588:Scripts.App_log:initializing class
+2022-05-25 14:32:33,589:Scripts.App_log:initializing class
+2022-05-25 14:32:33,694:Scripts.App_log:initializing class
+2022-05-25 14:32:33,704:Scripts.App_log:checking for dataset information
+2022-05-25 14:32:33,707:Scripts.App_log:checking for dataset shape
+2022-05-25 14:32:33,722:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:32:33,728:Scripts.App_log:checking for missing value
+2022-05-25 14:32:33,741:Scripts.App_log:initializing class
+2022-05-25 14:32:33,831:Scripts.App_log:checking for dataset information
+2022-05-25 14:32:33,832:Scripts.App_log:checking for dataset shape
+2022-05-25 14:32:34,001:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:32:34,077:Scripts.App_log:checking for missing value
+2022-05-25 14:32:34,092:Scripts.App_log:initializing class
+2022-05-25 14:32:34,108:Scripts.App_log:checking for dataset information
+2022-05-25 14:32:34,109:Scripts.App_log:checking for dataset shape
+2022-05-25 14:32:34,127:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:32:34,136:Scripts.App_log:checking for missing value
+2022-05-25 14:37:52,852:Scripts.App_log:initializing class
+2022-05-25 14:37:52,854:Scripts.App_log:initializing class
+2022-05-25 14:37:52,855:Scripts.App_log:initializing class
+2022-05-25 14:37:53,027:Scripts.App_log:initializing class
+2022-05-25 14:37:53,046:Scripts.App_log:checking for dataset information
+2022-05-25 14:37:53,049:Scripts.App_log:checking for dataset shape
+2022-05-25 14:37:53,090:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:37:53,103:Scripts.App_log:checking for missing value
+2022-05-25 14:37:53,119:Scripts.App_log:initializing class
+2022-05-25 14:37:53,265:Scripts.App_log:checking for dataset information
+2022-05-25 14:37:53,266:Scripts.App_log:checking for dataset shape
+2022-05-25 14:37:53,559:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:37:53,714:Scripts.App_log:checking for missing value
+2022-05-25 14:37:53,732:Scripts.App_log:initializing class
+2022-05-25 14:37:53,750:Scripts.App_log:checking for dataset information
+2022-05-25 14:37:53,751:Scripts.App_log:checking for dataset shape
+2022-05-25 14:37:53,784:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:37:53,799:Scripts.App_log:checking for missing value
+2022-05-25 14:41:37,743:Scripts.App_log:initializing class
+2022-05-25 14:41:37,745:Scripts.App_log:initializing class
+2022-05-25 14:41:37,745:Scripts.App_log:initializing class
+2022-05-25 14:41:37,869:Scripts.App_log:initializing class
+2022-05-25 14:41:37,876:Scripts.App_log:checking for dataset information
+2022-05-25 14:41:37,877:Scripts.App_log:checking for dataset shape
+2022-05-25 14:41:37,890:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:41:37,894:Scripts.App_log:checking for missing value
+2022-05-25 14:41:37,914:Scripts.App_log:initializing class
+2022-05-25 14:41:37,996:Scripts.App_log:checking for dataset information
+2022-05-25 14:41:37,997:Scripts.App_log:checking for dataset shape
+2022-05-25 14:41:38,145:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:41:38,219:Scripts.App_log:checking for missing value
+2022-05-25 14:41:38,226:Scripts.App_log:initializing class
+2022-05-25 14:41:38,241:Scripts.App_log:checking for dataset information
+2022-05-25 14:41:38,241:Scripts.App_log:checking for dataset shape
+2022-05-25 14:41:38,254:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:41:38,267:Scripts.App_log:checking for missing value
+2022-05-25 14:52:50,916:Scripts.App_log:initializing class
+2022-05-25 14:52:50,918:Scripts.App_log:initializing class
+2022-05-25 14:52:50,919:Scripts.App_log:initializing class
+2022-05-25 14:52:51,044:Scripts.App_log:initializing class
+2022-05-25 14:52:51,059:Scripts.App_log:checking for dataset information
+2022-05-25 14:52:51,060:Scripts.App_log:checking for dataset shape
+2022-05-25 14:52:51,082:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:52:51,088:Scripts.App_log:checking for missing value
+2022-05-25 14:52:51,106:Scripts.App_log:initializing class
+2022-05-25 14:52:51,215:Scripts.App_log:checking for dataset information
+2022-05-25 14:52:51,218:Scripts.App_log:checking for dataset shape
+2022-05-25 14:52:51,407:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:52:51,494:Scripts.App_log:checking for missing value
+2022-05-25 14:52:51,525:Scripts.App_log:initializing class
+2022-05-25 14:52:51,541:Scripts.App_log:checking for dataset information
+2022-05-25 14:52:51,542:Scripts.App_log:checking for dataset shape
+2022-05-25 14:52:51,562:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 14:52:51,572:Scripts.App_log:checking for missing value
+2022-05-25 14:53:06,379:Scripts.App_log:successfull removing outliers
+2022-05-25 14:53:09,630:Scripts.App_log:successfull removing outliers
+2022-05-25 14:53:24,746:Scripts.App_log:dropped column with nan values
+2022-05-25 14:53:26,072:Scripts.App_log:dropped column with nan values
+2022-05-25 14:53:29,175:Scripts.App_log:converting to int
+2022-05-25 14:53:29,177:Scripts.App_log:converting to int
+2022-05-25 14:53:29,179:Scripts.App_log:converting to int
+2022-05-25 14:53:29,181:Scripts.App_log:converting to int
+2022-05-25 14:53:30,346:Scripts.App_log:convert to datetime
+2022-05-25 14:53:30,365:Scripts.App_log:convert to datetime
+2022-05-25 14:53:36,045:Scripts.App_log:successful transform features
+2022-05-25 14:53:36,068:Scripts.App_log:successful transform features
+2022-05-25 14:55:49,695:Scripts.App_log:initializing class
+2022-05-25 14:55:50,082:Scripts.App_log:convert to datetime
+2022-05-25 14:55:50,093:Scripts.App_log:initializing class
+2022-05-25 14:55:50,101:Scripts.App_log:convert to datetime
+2022-05-25 14:55:50,109:Scripts.App_log:Successfull initialize data visualiz class
+2022-05-25 14:55:51,075:Scripts.App_log:plotted histogram
+2022-05-25 14:55:53,364:Scripts.App_log:plotted histogram
+2022-05-25 14:55:55,562:Scripts.App_log:plotted time series
+2022-05-25 14:56:10,331:Scripts.App_log:plotted time series
+2022-05-25 14:57:27,983:Scripts.App_log:plotted plot counts
+2022-05-25 14:57:28,770:Scripts.App_log:plotted plot counts
+2022-05-25 15:01:27,401:Scripts.App_log:initializing class
+2022-05-25 15:01:27,403:Scripts.App_log:initializing class
+2022-05-25 15:01:27,404:Scripts.App_log:initializing class
+2022-05-25 15:01:27,496:Scripts.App_log:initializing class
+2022-05-25 15:01:27,507:Scripts.App_log:checking for dataset information
+2022-05-25 15:01:27,507:Scripts.App_log:checking for dataset shape
+2022-05-25 15:01:27,523:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:01:27,528:Scripts.App_log:checking for missing value
+2022-05-25 15:01:27,542:Scripts.App_log:initializing class
+2022-05-25 15:01:27,622:Scripts.App_log:checking for dataset information
+2022-05-25 15:01:27,623:Scripts.App_log:checking for dataset shape
+2022-05-25 15:01:27,798:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:01:27,877:Scripts.App_log:checking for missing value
+2022-05-25 15:01:27,887:Scripts.App_log:initializing class
+2022-05-25 15:01:27,900:Scripts.App_log:checking for dataset information
+2022-05-25 15:01:27,900:Scripts.App_log:checking for dataset shape
+2022-05-25 15:01:27,917:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:01:27,925:Scripts.App_log:checking for missing value
+2022-05-25 15:11:15,289:Scripts.App_log:initializing class
+2022-05-25 15:11:15,291:Scripts.App_log:initializing class
+2022-05-25 15:11:15,293:Scripts.App_log:initializing class
+2022-05-25 15:11:15,411:Scripts.App_log:initializing class
+2022-05-25 15:11:15,420:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:15,421:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:15,439:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:15,444:Scripts.App_log:checking for missing value
+2022-05-25 15:11:15,458:Scripts.App_log:initializing class
+2022-05-25 15:11:15,546:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:15,547:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:15,720:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:15,795:Scripts.App_log:checking for missing value
+2022-05-25 15:11:15,805:Scripts.App_log:initializing class
+2022-05-25 15:11:15,824:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:15,825:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:15,843:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:15,851:Scripts.App_log:checking for missing value
+2022-05-25 15:11:33,466:Scripts.App_log:initializing class
+2022-05-25 15:11:33,466:Scripts.App_log:initializing class
+2022-05-25 15:11:33,467:Scripts.App_log:initializing class
+2022-05-25 15:11:33,577:Scripts.App_log:initializing class
+2022-05-25 15:11:33,587:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:33,590:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:33,606:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:33,611:Scripts.App_log:checking for missing value
+2022-05-25 15:11:33,623:Scripts.App_log:initializing class
+2022-05-25 15:11:33,712:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:33,714:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:33,882:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:33,956:Scripts.App_log:checking for missing value
+2022-05-25 15:11:33,967:Scripts.App_log:initializing class
+2022-05-25 15:11:33,980:Scripts.App_log:checking for dataset information
+2022-05-25 15:11:33,981:Scripts.App_log:checking for dataset shape
+2022-05-25 15:11:33,998:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:11:34,008:Scripts.App_log:checking for missing value
+2022-05-25 15:13:24,679:Scripts.App_log:initializing class
+2022-05-25 15:13:24,680:Scripts.App_log:initializing class
+2022-05-25 15:13:24,681:Scripts.App_log:initializing class
+2022-05-25 15:13:24,789:Scripts.App_log:initializing class
+2022-05-25 15:13:24,800:Scripts.App_log:checking for dataset information
+2022-05-25 15:13:24,801:Scripts.App_log:checking for dataset shape
+2022-05-25 15:13:24,818:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:13:24,823:Scripts.App_log:checking for missing value
+2022-05-25 15:13:24,837:Scripts.App_log:initializing class
+2022-05-25 15:13:24,918:Scripts.App_log:checking for dataset information
+2022-05-25 15:13:24,919:Scripts.App_log:checking for dataset shape
+2022-05-25 15:13:25,081:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:13:25,159:Scripts.App_log:checking for missing value
+2022-05-25 15:13:25,165:Scripts.App_log:initializing class
+2022-05-25 15:13:25,181:Scripts.App_log:checking for dataset information
+2022-05-25 15:13:25,182:Scripts.App_log:checking for dataset shape
+2022-05-25 15:13:25,198:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:13:25,208:Scripts.App_log:checking for missing value
+2022-05-25 15:13:25,244:Scripts.App_log:successfull removing outliers
+2022-05-25 15:13:25,643:Scripts.App_log:successfull removing outliers
+2022-05-25 15:13:25,830:Scripts.App_log:dropped column with nan values
+2022-05-25 15:13:25,870:Scripts.App_log:dropped column with nan values
+2022-05-25 15:13:25,905:Scripts.App_log:converting to int
+2022-05-25 15:13:25,906:Scripts.App_log:converting to int
+2022-05-25 15:13:25,908:Scripts.App_log:converting to int
+2022-05-25 15:13:25,910:Scripts.App_log:converting to int
+2022-05-25 15:13:26,049:Scripts.App_log:convert to datetime
+2022-05-25 15:13:26,058:Scripts.App_log:convert to datetime
+2022-05-25 15:13:26,790:Scripts.App_log:successful transform features
+2022-05-25 15:13:26,814:Scripts.App_log:successful transform features
+2022-05-25 15:15:11,621:Scripts.App_log:initializing class
+2022-05-25 15:15:11,622:Scripts.App_log:initializing class
+2022-05-25 15:15:11,638:Scripts.App_log:initializing class
+2022-05-25 15:15:45,243:Scripts.App_log:initializing class
+2022-05-25 15:15:45,248:Scripts.App_log:initializing class
+2022-05-25 15:15:45,249:Scripts.App_log:initializing class
+2022-05-25 15:15:45,352:Scripts.App_log:initializing class
+2022-05-25 15:15:45,362:Scripts.App_log:checking for dataset information
+2022-05-25 15:15:45,363:Scripts.App_log:checking for dataset shape
+2022-05-25 15:15:45,378:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:15:45,383:Scripts.App_log:checking for missing value
+2022-05-25 15:15:45,400:Scripts.App_log:initializing class
+2022-05-25 15:15:45,475:Scripts.App_log:checking for dataset information
+2022-05-25 15:15:45,485:Scripts.App_log:checking for dataset shape
+2022-05-25 15:15:45,624:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:15:45,714:Scripts.App_log:checking for missing value
+2022-05-25 15:15:45,725:Scripts.App_log:initializing class
+2022-05-25 15:15:45,740:Scripts.App_log:checking for dataset information
+2022-05-25 15:15:45,741:Scripts.App_log:checking for dataset shape
+2022-05-25 15:15:45,759:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:15:45,766:Scripts.App_log:checking for missing value
+2022-05-25 15:15:45,802:Scripts.App_log:successfull removing outliers
+2022-05-25 15:15:46,155:Scripts.App_log:successfull removing outliers
+2022-05-25 15:15:46,316:Scripts.App_log:dropped column with nan values
+2022-05-25 15:15:46,354:Scripts.App_log:dropped column with nan values
+2022-05-25 15:15:46,378:Scripts.App_log:converting to int
+2022-05-25 15:15:46,379:Scripts.App_log:converting to int
+2022-05-25 15:15:46,381:Scripts.App_log:converting to int
+2022-05-25 15:15:46,383:Scripts.App_log:converting to int
+2022-05-25 15:15:46,519:Scripts.App_log:convert to datetime
+2022-05-25 15:15:46,526:Scripts.App_log:convert to datetime
+2022-05-25 15:15:47,286:Scripts.App_log:successful transform features
+2022-05-25 15:15:47,305:Scripts.App_log:successful transform features
+2022-05-25 15:17:53,604:Scripts.App_log:initializing class
+2022-05-25 15:17:53,604:Scripts.App_log:initializing class
+2022-05-25 15:17:53,605:Scripts.App_log:initializing class
+2022-05-25 15:17:53,713:Scripts.App_log:initializing class
+2022-05-25 15:17:53,723:Scripts.App_log:checking for dataset information
+2022-05-25 15:17:53,723:Scripts.App_log:checking for dataset shape
+2022-05-25 15:17:53,737:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:17:53,742:Scripts.App_log:checking for missing value
+2022-05-25 15:17:53,761:Scripts.App_log:initializing class
+2022-05-25 15:17:53,853:Scripts.App_log:checking for dataset information
+2022-05-25 15:17:53,853:Scripts.App_log:checking for dataset shape
+2022-05-25 15:17:54,004:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:17:54,093:Scripts.App_log:checking for missing value
+2022-05-25 15:17:54,101:Scripts.App_log:initializing class
+2022-05-25 15:17:54,119:Scripts.App_log:checking for dataset information
+2022-05-25 15:17:54,119:Scripts.App_log:checking for dataset shape
+2022-05-25 15:17:54,134:Scripts.App_log:checking for dataset quantitative summary
+2022-05-25 15:17:54,142:Scripts.App_log:checking for missing value
+2022-05-25 15:17:54,166:Scripts.App_log:successfull removing outliers
+2022-05-25 15:17:54,552:Scripts.App_log:successfull removing outliers
+2022-05-25 15:17:54,732:Scripts.App_log:dropped column with nan values
+2022-05-25 15:17:54,772:Scripts.App_log:dropped column with nan values
+2022-05-25 15:17:54,809:Scripts.App_log:converting to int
+2022-05-25 15:17:54,810:Scripts.App_log:converting to int
+2022-05-25 15:17:54,811:Scripts.App_log:converting to int
+2022-05-25 15:17:54,812:Scripts.App_log:converting to int
+2022-05-25 15:17:54,954:Scripts.App_log:convert to datetime
+2022-05-25 15:17:54,971:Scripts.App_log:convert to datetime
+2022-05-25 15:17:55,818:Scripts.App_log:successful transform features
+2022-05-25 15:17:55,844:Scripts.App_log:successful transform features
+2022-05-25 15:18:19,156:Scripts.App_log:initializing class
+2022-05-25 15:18:19,548:Scripts.App_log:convert to datetime
+2022-05-25 15:18:19,549:Scripts.App_log:initializing class
+2022-05-25 15:18:19,557:Scripts.App_log:convert to datetime
+2022-05-25 15:18:19,577:Scripts.App_log:Successfull initialize data visualiz class
+2022-05-25 15:18:20,700:Scripts.App_log:plotted histogram
+2022-05-25 15:18:24,707:Scripts.App_log:plotted histogram
+2022-05-25 15:18:27,866:Scripts.App_log:plotted time series
+2022-05-25 15:18:42,119:Scripts.App_log:plotted time series

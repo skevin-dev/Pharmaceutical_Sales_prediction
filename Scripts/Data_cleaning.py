@@ -1,6 +1,6 @@
 import pandas as pd 
 import numpy as np 
-
+from Scripts.App_log import logger
 def load_data(filepath):
     df = pd.read_csv(filepath)
     return df 
@@ -8,24 +8,31 @@ def load_data(filepath):
 class clean_data():
     def __init__(self,df):
         self.df = df
+        logger.info('initializing class')
         
     #perform descriptive statistics
     def descriptive_statistics(self,info=False,shape=False,describe=False,missing_values=False):
         information=None
         if info:
             information = self.df.info()
+            logger.info('checking for dataset information')
         elif shape:
             information = self.df.shape
+            logger.info('checking for dataset shape')
+
         elif describe:
             information = self.df.describe()
+            logger.info('checking for dataset quantitative summary')
         elif missing_values:
             information = self.df.isna().sum()
+            logger.info('checking for missing value')
         
         return information
     
     #fixing outliers 
     def fix_outliers(self,df,column):
         df[column] = np.where(df[column] > df[column].quantile(0.95), df[column].median(),df[column])
+        logger.info('successfull removing outliers')
     
         return df[column]
     
@@ -33,16 +40,18 @@ class clean_data():
     def convert_to_string(self,df, columns):
         for col in columns:
             df[col] = df[col].astype("string")
-            
+            logger.info('Converting to string')
     #converting column to int
     def convert_to_int(self,df, columns):
         for col in columns:
             df[col] = df[col].astype("int64")
+            logger.info('converting to int')
             
     #converting column to datetime
     def convert_to_datetime(self,df, columns):
         for col in columns:
             df[col] = pd.to_datetime(df[col])
+            logger.info('convert to datetime')
     
     #handling categorial and numeric columns by filling with mean and median and model
     def handling_missing(self,df):
@@ -82,6 +91,7 @@ class clean_data():
     #drop rows with nan values:
     def drop_rows(self,df):
         df.dropna(inplace=True)
+        logger.info('dropped column with nan values')
     
     #drop duplicate
     def drop_duplicate(self,df,column):
@@ -94,5 +104,6 @@ class clean_data():
         df['Years'] = df[column].dt.year
         df['DayOfYear'] = df[column].dt.dayofyear
         df['WeekOfYear'] = df[column].dt.weekofyear
+        logger.info('successful transform features')
     
     
