@@ -30,7 +30,7 @@ class Data_visualiz:
         plt.xlabel('Date')
         plt.ylabel('Sales')
         
-    def plot_counts(self,df,col1,col2=None,Type=None,**kwargs):
+    def plot_counts(self,df,col1,col2=None,col3=None,Type=None,**kwargs):
         
         if Type=='univariate':
             plt.figure(figsize=(8,6))
@@ -43,12 +43,19 @@ class Data_visualiz:
             plt.scatter(df[col1],df[col2])
             plt.xlabel(col1)
             plt.ylabel(col2)
-            plt.title(f"Scatter plot of {col2} against {col2}")
+            plt.title(f"Scatter plot of {col1} against {col2}")
+            plt.show()
          
         elif Type == 'bar':
             plt.figure(figsize=(10,8))
             sns.barplot(x=col1, y=col2, data=df)
             plt.title(f"{col2} in {col1}")
             plt.show()
+            
+        elif Type == 'lineplot':
+            plt.figure(figsize=(10,8))
+            sns.lineplot(df[col1], y= df[col2], hue=df[col3],ci=None)
+            plt.show()
+
             
     
