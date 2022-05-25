@@ -15,7 +15,7 @@ git clone
 jupyter notebook`
 ```
 # ML pipeline 
-!['CHEESE!'](../10 academy/New Flowchart.jpg)
+![image](MLpipeline.jpg)
 
 # Skills implemented in this project 
 
