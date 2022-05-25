@@ -40,18 +40,18 @@ class clean_data():
     def convert_to_string(self,df, columns):
         for col in columns:
             df[col] = df[col].astype("string")
-            logger.info('Converting to string')
+            logger.info('successfully Converting to string')
     #converting column to int
     def convert_to_int(self,df, columns):
         for col in columns:
             df[col] = df[col].astype("int64")
-            logger.info('converting to int')
+            logger.info(' successfully converting to int')
             
     #converting column to datetime
     def convert_to_datetime(self,df, columns):
         for col in columns:
             df[col] = pd.to_datetime(df[col])
-            logger.info('convert to datetime')
+            logger.info(' successfully convert to datetime')
     
     #handling categorial and numeric columns by filling with mean and median and model
     def handling_missing(self,df):
