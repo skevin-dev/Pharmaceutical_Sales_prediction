@@ -249,3 +249,87 @@
 2022-05-25 15:18:24,707:Scripts.App_log:plotted histogram
 2022-05-25 15:18:27,866:Scripts.App_log:plotted time series
 2022-05-25 15:18:42,119:Scripts.App_log:plotted time series
+2022-05-26 07:19:53,223:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:19:53,343:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:24:40,760:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:24:40,851:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:23,613:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:23,630:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:24,407:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:24,470:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:24,487:Scripts.App_log:initializing class
+2022-05-26 07:28:24,487:Scripts.App_log:initializing class
+2022-05-26 07:28:24,487:Scripts.App_log:initializing class
+2022-05-26 07:28:24,639:Scripts.App_log:initializing class
+2022-05-26 07:28:24,663:Scripts.App_log:checking for dataset information
+2022-05-26 07:28:24,664:Scripts.App_log:checking for dataset shape
+2022-05-26 07:28:24,694:Scripts.App_log:checking for dataset quantitative summary
+2022-05-26 07:28:24,704:Scripts.App_log:checking for missing value
+2022-05-26 07:28:24,719:Scripts.App_log:initializing class
+2022-05-26 07:28:24,878:Scripts.App_log:checking for dataset information
+2022-05-26 07:28:24,879:Scripts.App_log:checking for dataset shape
+2022-05-26 07:28:25,253:Scripts.App_log:checking for dataset quantitative summary
+2022-05-26 07:28:25,436:Scripts.App_log:checking for missing value
+2022-05-26 07:28:25,455:Scripts.App_log:initializing class
+2022-05-26 07:28:25,486:Scripts.App_log:checking for dataset information
+2022-05-26 07:28:25,486:Scripts.App_log:checking for dataset shape
+2022-05-26 07:28:25,528:Scripts.App_log:checking for dataset quantitative summary
+2022-05-26 07:28:25,544:Scripts.App_log:checking for missing value
+2022-05-26 07:28:25,640:Scripts.App_log:successfull removing outliers
+2022-05-26 07:28:26,490:Scripts.App_log:successfull removing outliers
+2022-05-26 07:28:26,792:Scripts.App_log:dropped column with nan values
+2022-05-26 07:28:26,850:Scripts.App_log:dropped column with nan values
+2022-05-26 07:28:26,947:Scripts.App_log: successfully converting to int
+2022-05-26 07:28:26,949:Scripts.App_log: successfully converting to int
+2022-05-26 07:28:26,952:Scripts.App_log: successfully converting to int
+2022-05-26 07:28:26,953:Scripts.App_log: successfully converting to int
+2022-05-26 07:28:27,283:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:28:27,303:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:28:29,230:Scripts.App_log:successful transform features
+2022-05-26 07:28:29,283:Scripts.App_log:successful transform features
+2022-05-26 07:28:36,368:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:28:36,515:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:36:47,963:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:36:48,079:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:36:48,467:Scripts.App_log:successful initialize the class
+2022-05-26 07:38:45,509:Scripts.App_log:successful initialize the class
+2022-05-26 07:42:29,352:Scripts.App_log:successful initialize the class
+2022-05-26 07:46:20,393:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:46:20,492:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:47:39,095:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:47:39,206:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:47:39,765:Scripts.App_log:successful initialize the class
+2022-05-26 07:47:41,363:Scripts.App_log:successful convert to numeric
+2022-05-26 07:47:41,438:Scripts.App_log:successful initialize the class
+2022-05-26 07:47:41,531:Scripts.App_log:successful convert to numeric
+2022-05-26 07:48:42,101:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:48:42,212:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:48:42,996:Scripts.App_log:successful initialize the class
+2022-05-26 07:48:44,992:Scripts.App_log:successful convert to numeric
+2022-05-26 07:48:45,087:Scripts.App_log:successful initialize the class
+2022-05-26 07:48:45,223:Scripts.App_log:successful convert to numeric
+2022-05-26 07:51:09,460:Scripts.App_log:initializing class
+2022-05-26 07:51:43,360:Scripts.App_log:initializing class
+2022-05-26 07:51:43,741:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:52:16,295:Scripts.App_log:initializing class
+2022-05-26 07:52:16,311:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:52:30,664:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:52:30,800:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:52:31,558:Scripts.App_log:initializing class
+2022-05-26 07:52:32,333:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:52:32,340:Scripts.App_log:initializing class
+2022-05-26 07:52:32,357:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:52:32,373:Scripts.App_log:successful initialize the class
+2022-05-26 07:52:34,692:Scripts.App_log:successful convert to numeric
+2022-05-26 07:52:34,794:Scripts.App_log:successful initialize the class
+2022-05-26 07:52:34,920:Scripts.App_log:successful convert to numeric
+2022-05-26 07:53:15,492:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:53:15,620:Scripts.App_log:Successfully loaded datasets
+2022-05-26 07:53:16,383:Scripts.App_log:initializing class
+2022-05-26 07:53:17,280:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:53:17,293:Scripts.App_log:initializing class
+2022-05-26 07:53:17,308:Scripts.App_log: successfully convert to datetime
+2022-05-26 07:53:17,593:Scripts.App_log:successful initialize the class
+2022-05-26 07:53:19,985:Scripts.App_log:successful convert to numeric
+2022-05-26 07:53:20,060:Scripts.App_log:successful initialize the class
+2022-05-26 07:53:20,184:Scripts.App_log:successful convert to numeric
