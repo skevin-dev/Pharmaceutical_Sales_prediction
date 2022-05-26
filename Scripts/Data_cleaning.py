@@ -3,6 +3,7 @@ import numpy as np
 from Scripts.App_log import logger
 def load_data(filepath):
     df = pd.read_csv(filepath)
+    logger.info('Successfully loaded datasets')
     return df 
 
 class clean_data():
