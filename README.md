@@ -14,8 +14,13 @@ git clone
 ```
 jupyter notebook`
 ```
+<<<<<<< HEAD
 # ML pipeline 
 ![image](MLpipeline.jpg)
+=======
+# ML pipeline design 
+![image](../10 academy/New Flowchart.jpg)
+>>>>>>> 7b424b96d0e67edde3654d0efc4e17f10ab7d77a
 
 # Skills implemented in this project 
 
