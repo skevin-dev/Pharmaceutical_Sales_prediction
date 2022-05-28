@@ -536,3 +536,21 @@
 2022-05-28 16:45:05,826:Scripts.App_log:successful convert to numeric
 2022-05-28 16:45:08,791:Scripts.App_log:successful scaling data
 2022-05-28 16:45:08,918:Scripts.App_log:successful scaling data
+2022-05-28 16:45:55,710:Scripts.App_log:Successfully loaded datasets
+2022-05-28 16:45:55,814:Scripts.App_log:Successfully loaded datasets
+2022-05-28 16:45:56,330:Scripts.App_log:initializing class
+2022-05-28 16:45:56,753:Scripts.App_log: successfully convert to datetime
+2022-05-28 16:45:56,765:Scripts.App_log:initializing class
+2022-05-28 16:45:56,774:Scripts.App_log: successfully convert to datetime
+2022-05-28 16:45:56,782:Scripts.App_log:initializing class
+2022-05-28 16:45:56,793:Scripts.App_log: successfully converting to int
+2022-05-28 16:45:56,796:Scripts.App_log: successfully converting to int
+2022-05-28 16:45:56,802:Scripts.App_log: successfully converting to int
+2022-05-28 16:45:56,804:Scripts.App_log: successfully converting to int
+2022-05-28 16:45:56,805:Scripts.App_log: successfully converting to int
+2022-05-28 16:45:56,811:Scripts.App_log:successful initialize the class
+2022-05-28 16:45:57,555:Scripts.App_log:successful convert to numeric
+2022-05-28 16:45:57,608:Scripts.App_log:successful initialize the class
+2022-05-28 16:45:57,676:Scripts.App_log:successful convert to numeric
+2022-05-28 16:46:01,822:Scripts.App_log:successful scaling data
+2022-05-28 16:46:01,984:Scripts.App_log:successful scaling data
