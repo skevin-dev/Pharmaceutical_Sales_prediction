@@ -93,7 +93,11 @@ class clean_data():
     def drop_rows(self,df:pd.DataFrame)->pd.DataFrame:
         df.dropna(inplace=True)
         logger.info('dropped column with nan values')
-    
+        
+    def drop_cols(self,df:pd.DataFrame,cols) -> pd.DataFrame:
+        df.drop(cols,axis=1,inplace=True)
+        logger.info("successful deleted a column")
+        return df
     #drop duplicate
     def drop_duplicate(self,df:pd.DataFrame,column)->pd.DataFrame:
         df = df.drop_duplicates(subset=[column])
