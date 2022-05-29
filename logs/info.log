@@ -901,3 +901,26 @@
 2022-05-29 13:10:38,209:Scripts.App_log:successfully initialized modeler class
 2022-05-29 13:10:38,248:Scripts.App_log:successful separate the dataset
 2022-05-29 13:10:38,619:Scripts.App_log:Successful split the data
+2022-05-29 22:46:30,931:Scripts.App_log:Successfully loaded datasets
+2022-05-29 22:46:31,020:Scripts.App_log:Successfully loaded datasets
+2022-05-29 22:46:31,451:Scripts.App_log:initializing class
+2022-05-29 22:46:31,837:Scripts.App_log: successfully convert to datetime
+2022-05-29 22:46:31,855:Scripts.App_log:initializing class
+2022-05-29 22:46:31,864:Scripts.App_log: successfully convert to datetime
+2022-05-29 22:46:31,878:Scripts.App_log:initializing class
+2022-05-29 22:46:31,883:Scripts.App_log: successfully converting to int
+2022-05-29 22:46:31,887:Scripts.App_log: successfully converting to int
+2022-05-29 22:46:31,889:Scripts.App_log: successfully converting to int
+2022-05-29 22:46:31,891:Scripts.App_log: successfully converting to int
+2022-05-29 22:46:31,893:Scripts.App_log: successfully converting to int
+2022-05-29 22:46:31,904:Scripts.App_log:successful initialize the class
+2022-05-29 22:46:32,530:Scripts.App_log:successful convert to numeric
+2022-05-29 22:46:32,578:Scripts.App_log:successful initialize the class
+2022-05-29 22:46:32,628:Scripts.App_log:successful convert to numeric
+2022-05-29 22:46:35,952:Scripts.App_log:successful scaling data
+2022-05-29 22:46:36,194:Scripts.App_log:successfully initialized modeler class
+2022-05-29 22:46:36,214:Scripts.App_log:successful separate the dataset
+2022-05-29 22:46:36,241:Scripts.App_log:Successful split the data
+2022-05-29 22:46:37,345:Scripts.App_log:successful separate the dataset
+2022-05-29 22:46:37,352:Scripts.App_log:successful separate the dataset
+2022-05-29 22:46:44,264:Scripts.App_log:successfully compute feature importance
