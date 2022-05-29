@@ -639,3 +639,217 @@
 2022-05-28 19:58:59,152:Scripts.App_log:successfully initialized modeler class
 2022-05-28 19:58:59,405:Scripts.App_log:successful separate the dataset
 2022-05-28 19:59:00,783:Scripts.App_log:Successful split the data
+2022-05-28 20:15:39,909:Scripts.App_log:Successfully loaded datasets
+2022-05-28 20:15:40,111:Scripts.App_log:Successfully loaded datasets
+2022-05-28 20:15:41,266:Scripts.App_log:initializing class
+2022-05-28 20:15:42,414:Scripts.App_log: successfully convert to datetime
+2022-05-28 20:15:42,426:Scripts.App_log:initializing class
+2022-05-28 20:15:42,445:Scripts.App_log: successfully convert to datetime
+2022-05-28 20:15:42,470:Scripts.App_log:initializing class
+2022-05-28 20:15:42,476:Scripts.App_log: successfully converting to int
+2022-05-28 20:15:42,481:Scripts.App_log: successfully converting to int
+2022-05-28 20:15:42,485:Scripts.App_log: successfully converting to int
+2022-05-28 20:15:42,487:Scripts.App_log: successfully converting to int
+2022-05-28 20:15:42,492:Scripts.App_log: successfully converting to int
+2022-05-28 20:15:42,509:Scripts.App_log:successful initialize the class
+2022-05-28 20:15:44,153:Scripts.App_log:successful convert to numeric
+2022-05-28 20:15:44,260:Scripts.App_log:successful initialize the class
+2022-05-28 20:15:44,392:Scripts.App_log:successful convert to numeric
+2022-05-28 20:15:50,705:Scripts.App_log:successful scaling data
+2022-05-28 20:15:50,916:Scripts.App_log:successful scaling data
+2022-05-28 20:15:51,653:Scripts.App_log:initializing class
+2022-05-28 20:15:52,003:Scripts.App_log:successful deleted a column
+2022-05-28 20:15:52,548:Scripts.App_log:successfully initialized modeler class
+2022-05-28 20:15:52,711:Scripts.App_log:successful separate the dataset
+2022-05-28 20:15:54,261:Scripts.App_log:Successful split the data
+2022-05-29 11:09:56,302:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:09:56,517:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:09:57,699:Scripts.App_log:initializing class
+2022-05-29 11:09:58,882:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:09:58,902:Scripts.App_log:initializing class
+2022-05-29 11:09:58,937:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:09:58,961:Scripts.App_log:initializing class
+2022-05-29 11:09:58,966:Scripts.App_log: successfully converting to int
+2022-05-29 11:09:58,971:Scripts.App_log: successfully converting to int
+2022-05-29 11:09:58,973:Scripts.App_log: successfully converting to int
+2022-05-29 11:09:58,978:Scripts.App_log: successfully converting to int
+2022-05-29 11:09:58,980:Scripts.App_log: successfully converting to int
+2022-05-29 11:09:58,998:Scripts.App_log:successful initialize the class
+2022-05-29 11:10:00,615:Scripts.App_log:successful convert to numeric
+2022-05-29 11:10:00,704:Scripts.App_log:successful initialize the class
+2022-05-29 11:10:00,808:Scripts.App_log:successful convert to numeric
+2022-05-29 11:13:04,881:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:13:05,000:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:13:05,707:Scripts.App_log:initializing class
+2022-05-29 11:13:06,566:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:13:06,587:Scripts.App_log:initializing class
+2022-05-29 11:13:06,612:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:13:06,630:Scripts.App_log:initializing class
+2022-05-29 11:13:06,637:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:06,642:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:06,646:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:06,649:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:06,652:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:06,664:Scripts.App_log:successful initialize the class
+2022-05-29 11:13:08,240:Scripts.App_log:successful convert to numeric
+2022-05-29 11:13:08,330:Scripts.App_log:successful initialize the class
+2022-05-29 11:13:08,437:Scripts.App_log:successful convert to numeric
+2022-05-29 11:13:29,241:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:13:29,415:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:13:30,438:Scripts.App_log:initializing class
+2022-05-29 11:13:31,588:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:13:31,602:Scripts.App_log:initializing class
+2022-05-29 11:13:31,623:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:13:31,641:Scripts.App_log:initializing class
+2022-05-29 11:13:31,645:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:31,649:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:31,653:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:31,656:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:31,659:Scripts.App_log: successfully converting to int
+2022-05-29 11:13:31,673:Scripts.App_log:successful initialize the class
+2022-05-29 11:13:33,372:Scripts.App_log:successful convert to numeric
+2022-05-29 11:13:33,457:Scripts.App_log:successful initialize the class
+2022-05-29 11:13:33,554:Scripts.App_log:successful convert to numeric
+2022-05-29 11:15:46,800:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:15:46,972:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:15:48,033:Scripts.App_log:initializing class
+2022-05-29 11:15:49,188:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:15:49,206:Scripts.App_log:initializing class
+2022-05-29 11:15:49,223:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:15:49,247:Scripts.App_log:initializing class
+2022-05-29 11:15:49,258:Scripts.App_log: successfully converting to int
+2022-05-29 11:15:49,264:Scripts.App_log: successfully converting to int
+2022-05-29 11:15:49,277:Scripts.App_log: successfully converting to int
+2022-05-29 11:15:49,285:Scripts.App_log: successfully converting to int
+2022-05-29 11:15:49,289:Scripts.App_log: successfully converting to int
+2022-05-29 11:15:49,317:Scripts.App_log:successful initialize the class
+2022-05-29 11:15:50,933:Scripts.App_log:successful convert to numeric
+2022-05-29 11:15:51,030:Scripts.App_log:successful initialize the class
+2022-05-29 11:15:51,132:Scripts.App_log:successful convert to numeric
+2022-05-29 11:16:00,932:Scripts.App_log:successful scaling data
+2022-05-29 11:16:01,128:Scripts.App_log:successful scaling data
+2022-05-29 11:16:01,991:Scripts.App_log:initializing class
+2022-05-29 11:16:02,332:Scripts.App_log:successful deleted a column
+2022-05-29 11:16:02,987:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:16:03,161:Scripts.App_log:successful separate the dataset
+2022-05-29 11:16:04,714:Scripts.App_log:Successful split the data
+2022-05-29 11:31:41,967:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:31:42,082:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:31:42,943:Scripts.App_log:initializing class
+2022-05-29 11:31:44,101:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:31:44,118:Scripts.App_log:initializing class
+2022-05-29 11:31:44,139:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:31:44,152:Scripts.App_log:initializing class
+2022-05-29 11:31:44,158:Scripts.App_log: successfully converting to int
+2022-05-29 11:31:44,163:Scripts.App_log: successfully converting to int
+2022-05-29 11:31:44,166:Scripts.App_log: successfully converting to int
+2022-05-29 11:31:44,169:Scripts.App_log: successfully converting to int
+2022-05-29 11:31:44,172:Scripts.App_log: successfully converting to int
+2022-05-29 11:31:44,189:Scripts.App_log:successful initialize the class
+2022-05-29 11:31:45,725:Scripts.App_log:successful convert to numeric
+2022-05-29 11:31:45,798:Scripts.App_log:successful initialize the class
+2022-05-29 11:31:45,888:Scripts.App_log:successful convert to numeric
+2022-05-29 11:31:53,920:Scripts.App_log:successful scaling data
+2022-05-29 11:31:54,276:Scripts.App_log:initializing class
+2022-05-29 11:32:36,086:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:32:36,205:Scripts.App_log:successful separate the dataset
+2022-05-29 11:32:36,844:Scripts.App_log:Successful split the data
+2022-05-29 11:37:21,069:Scripts.App_log:successful scaling data
+2022-05-29 11:37:31,258:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:37:31,301:Scripts.App_log:successful separate the dataset
+2022-05-29 11:37:31,984:Scripts.App_log:Successful split the data
+2022-05-29 11:48:16,340:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:51:39,758:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:51:39,857:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:51:40,865:Scripts.App_log:initializing class
+2022-05-29 11:51:42,074:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:51:42,089:Scripts.App_log:initializing class
+2022-05-29 11:51:42,119:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:51:42,132:Scripts.App_log:initializing class
+2022-05-29 11:51:42,140:Scripts.App_log: successfully converting to int
+2022-05-29 11:51:42,145:Scripts.App_log: successfully converting to int
+2022-05-29 11:51:42,150:Scripts.App_log: successfully converting to int
+2022-05-29 11:51:42,155:Scripts.App_log: successfully converting to int
+2022-05-29 11:51:42,160:Scripts.App_log: successfully converting to int
+2022-05-29 11:51:42,177:Scripts.App_log:successful initialize the class
+2022-05-29 11:51:43,758:Scripts.App_log:successful convert to numeric
+2022-05-29 11:51:43,834:Scripts.App_log:successful initialize the class
+2022-05-29 11:51:43,946:Scripts.App_log:successful convert to numeric
+2022-05-29 11:51:52,191:Scripts.App_log:successful scaling data
+2022-05-29 11:51:52,544:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:51:52,640:Scripts.App_log:successful separate the dataset
+2022-05-29 11:51:53,282:Scripts.App_log:Successful split the data
+2022-05-29 11:52:20,124:Scripts.App_log:successful separate the dataset
+2022-05-29 11:52:20,173:Scripts.App_log:successful separate the dataset
+2022-05-29 11:56:50,061:Scripts.App_log:successful separate the dataset
+2022-05-29 11:56:50,093:Scripts.App_log:successful separate the dataset
+2022-05-29 11:59:26,809:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:59:26,922:Scripts.App_log:Successfully loaded datasets
+2022-05-29 11:59:27,400:Scripts.App_log:initializing class
+2022-05-29 11:59:27,809:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:59:27,816:Scripts.App_log:initializing class
+2022-05-29 11:59:27,823:Scripts.App_log: successfully convert to datetime
+2022-05-29 11:59:27,832:Scripts.App_log:initializing class
+2022-05-29 11:59:27,835:Scripts.App_log: successfully converting to int
+2022-05-29 11:59:27,838:Scripts.App_log: successfully converting to int
+2022-05-29 11:59:27,840:Scripts.App_log: successfully converting to int
+2022-05-29 11:59:27,841:Scripts.App_log: successfully converting to int
+2022-05-29 11:59:27,842:Scripts.App_log: successfully converting to int
+2022-05-29 11:59:27,847:Scripts.App_log:successful initialize the class
+2022-05-29 11:59:28,602:Scripts.App_log:successful convert to numeric
+2022-05-29 11:59:28,648:Scripts.App_log:successful initialize the class
+2022-05-29 11:59:28,690:Scripts.App_log:successful convert to numeric
+2022-05-29 11:59:32,433:Scripts.App_log:successful scaling data
+2022-05-29 11:59:32,640:Scripts.App_log:successfully initialized modeler class
+2022-05-29 11:59:32,683:Scripts.App_log:successful separate the dataset
+2022-05-29 11:59:33,280:Scripts.App_log:Successful split the data
+2022-05-29 11:59:47,028:Scripts.App_log:successful separate the dataset
+2022-05-29 11:59:47,050:Scripts.App_log:successful separate the dataset
+2022-05-29 12:10:42,238:Scripts.App_log:successful separate the dataset
+2022-05-29 12:10:42,277:Scripts.App_log:successful separate the dataset
+2022-05-29 12:12:49,274:Scripts.App_log:Successfully loaded datasets
+2022-05-29 12:12:49,361:Scripts.App_log:Successfully loaded datasets
+2022-05-29 12:12:49,768:Scripts.App_log:initializing class
+2022-05-29 12:12:50,164:Scripts.App_log: successfully convert to datetime
+2022-05-29 12:12:50,180:Scripts.App_log:initializing class
+2022-05-29 12:12:50,186:Scripts.App_log: successfully convert to datetime
+2022-05-29 12:12:50,197:Scripts.App_log:initializing class
+2022-05-29 12:12:50,199:Scripts.App_log: successfully converting to int
+2022-05-29 12:12:50,201:Scripts.App_log: successfully converting to int
+2022-05-29 12:12:50,202:Scripts.App_log: successfully converting to int
+2022-05-29 12:12:50,202:Scripts.App_log: successfully converting to int
+2022-05-29 12:12:50,202:Scripts.App_log: successfully converting to int
+2022-05-29 12:12:50,216:Scripts.App_log:successful initialize the class
+2022-05-29 12:12:50,909:Scripts.App_log:successful convert to numeric
+2022-05-29 12:12:50,962:Scripts.App_log:successful initialize the class
+2022-05-29 12:12:50,998:Scripts.App_log:successful convert to numeric
+2022-05-29 12:12:54,321:Scripts.App_log:successful scaling data
+2022-05-29 12:12:54,544:Scripts.App_log:successfully initialized modeler class
+2022-05-29 12:12:54,589:Scripts.App_log:successful separate the dataset
+2022-05-29 12:12:55,190:Scripts.App_log:Successful split the data
+2022-05-29 12:13:08,080:Scripts.App_log:successful separate the dataset
+2022-05-29 12:13:08,100:Scripts.App_log:successful separate the dataset
+2022-05-29 12:24:19,094:Scripts.App_log:successful separate the dataset
+2022-05-29 12:24:19,122:Scripts.App_log:successful separate the dataset
+2022-05-29 12:25:09,501:Scripts.App_log:Successfully loaded datasets
+2022-05-29 12:25:09,577:Scripts.App_log:Successfully loaded datasets
+2022-05-29 12:25:09,997:Scripts.App_log:initializing class
+2022-05-29 12:25:10,388:Scripts.App_log: successfully convert to datetime
+2022-05-29 12:25:10,393:Scripts.App_log:initializing class
+2022-05-29 12:25:10,401:Scripts.App_log: successfully convert to datetime
+2022-05-29 12:25:10,409:Scripts.App_log:initializing class
+2022-05-29 12:25:10,411:Scripts.App_log: successfully converting to int
+2022-05-29 12:25:10,413:Scripts.App_log: successfully converting to int
+2022-05-29 12:25:10,414:Scripts.App_log: successfully converting to int
+2022-05-29 12:25:10,416:Scripts.App_log: successfully converting to int
+2022-05-29 12:25:10,417:Scripts.App_log: successfully converting to int
+2022-05-29 12:25:10,425:Scripts.App_log:successful initialize the class
+2022-05-29 12:25:11,056:Scripts.App_log:successful convert to numeric
+2022-05-29 12:25:11,109:Scripts.App_log:successful initialize the class
+2022-05-29 12:25:11,148:Scripts.App_log:successful convert to numeric
+2022-05-29 12:25:14,117:Scripts.App_log:successful scaling data
+2022-05-29 12:25:14,317:Scripts.App_log:successfully initialized modeler class
+2022-05-29 12:25:14,361:Scripts.App_log:successful separate the dataset
+2022-05-29 12:25:14,752:Scripts.App_log:Successful split the data
+2022-05-29 12:27:12,658:Scripts.App_log:successful separate the dataset
+2022-05-29 12:27:12,680:Scripts.App_log:successful separate the dataset

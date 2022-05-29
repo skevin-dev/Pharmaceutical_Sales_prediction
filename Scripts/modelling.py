@@ -1,6 +1,9 @@
 from sklearn.model_selection import train_test_split
 from Scripts.App_log import logger
-
+import pandas as pd
+import matplotlib.pyplot as plt 
+import seaborn as sns
+sns.set()
 
 class modeler():
     
@@ -38,5 +41,26 @@ class modeler():
         
         return X_train, X_test, X_val, y_train, y_test,y_val
     
+    def feature_importance(self,model,df,target,**kwargs):
+        """
+        -- feature importance 
+        """
+        X = self.dependent_variable(df,target)[0]
+        y = self.dependent_variable(df,target)[1]
+        
+        # initialize the model
+        model_ = model(**kwargs)
+        
+        #fit the model 
+        model_.fit(X,y)
+        
+        #feature importance
+        feat_importances = pd.Series(model_.feature_importances_, index=X.columns)
+        feat_importances.plot(kind='barh')
+        plt.show()
+        
+        logger.info("successfully compute feature importance")
+        
+        return feat_importances
    
     
