@@ -69,6 +69,7 @@ class Data_visualiz:
             plt.show()
 
             logger.info('plotted plot counts')
+            ## return 
 
             
     
