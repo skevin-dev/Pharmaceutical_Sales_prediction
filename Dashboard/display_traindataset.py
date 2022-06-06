@@ -1,6 +1,16 @@
 import streamlit as st
 import pandas as pd
 
+@st.cache
+def load_train():
+    df = pd.read_csv('./data/train.csv',low_memory=False)
+    return df 
+
+@st.cache
+def loadtest():
+    df = pd.read_csv('./data/test.csv')
+    return df 
+
 def app():
     st.title('In this page we display datasets')
     
@@ -13,13 +23,9 @@ def app():
         
         
         st.header('Training Data')
-        
-        @st.cache
-        train = pd.read_csv('./data/train.csv',low_memory=False)
+        train = load_train()
         st.write(train, width=1200)
         
         st.header('Testing Data')
-        
-        @st.cache
-        test = pd.read_csv('./data/test.csv')
+        test = loadtest()
         st.write(test)
