@@ -1,19 +1,10 @@
 import streamlit as st
 
-import pandas as pd 
-import numpy as np 
-
-train_data = pd.read_csv('./data/train-data.csv')
-test_data = pd.read_csv('./data/test-data.csv')
-
-st.title('Pharmaceutical Sales')
-
-if set.checkbox('Train data'):
-    st.subheader('Training Dataset')
-    st.write(train_data)
+def app():
+    with st.spinner("Loading Home ..."):
+        
+        st.markdown("<p style='padding:2rem;text-align:center; background-color:#3761B5;color:#FFFFFF;font-size:2rem;border-radius:0.8rem;'>Rossmann Pharmaceuticals</p>", unsafe_allow_html=True)
     
-if set.checkbox('Test data'):
-    st.subheader('Testing dataset')
-    st.write(test_data)
-    
-    
+        st.markdown("<p style='font-size:1.8rem'>With about 56,200 employees and over 4000 locations across Europe, Dirk Rossmann GmbH (commonly known as Rossmann) is one of Europe's major drugstore companies.</p>", unsafe_allow_html=True)
+
+        st.markdown("<p style='font-size:1.8rem'>The Rosemann pharmaceutical firm can examine sales estimates for its stores six weeks in advance, as well as projected patterns, thanks to this app, which is an end-to-end solution.</p>",unsafe_allow_html=True)
