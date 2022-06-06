@@ -1,6 +1,6 @@
 import streamlit as st
 
 def app():
-    st.title('Rossmann Pharmaceuticals Sales Prediction')
+    st.title('Rossmann Pharmaceuticals Sales Forecasting')
   
-    st.write("The finance team at Rossmann Pharmaceuticals wants to forecast sales in all their stores across several cities six weeks ahead of time. Managers in individual stores rely on their years of experience as well as their personal judgment to forecast sales. The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.Your job is to build and serve an end-to-end product that delivers this prediction to analysts in the finance team.")
+    st.write("Rossmann Pharmaceuticals' finance team wants to forecast sales in all of their stores across multiple cities six weeks in advance. Individual store managers forecast sales using their years of experience as well as their personal judgment. Promotions, competition, school and state holidays, seasonality, and locality were identified as necessary factors for predicting sales across the various stores by the data team. The job is to create and maintain an end-to-end product that delivers this prediction to the finance team's analysts.")
