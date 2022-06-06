@@ -1,10 +1,6 @@
 import streamlit as st
 
 def app():
-    with st.spinner("Loading Home ..."):
-        
-        st.markdown("<p style='padding:1.5rem;text-align:center; background-color:#3761B5;color:#FFFFFF;font-size:2rem;border-radius:0.5rem;'>Rossmann Pharmaceuticals Sales Forecasting</p>", unsafe_allow_html=True)
-    
-        st.markdown("<p style='font-size:1rem'>With about 56,200 employees and over 4000 locations across Europe, Dirk Rossmann GmbH (commonly known as Rossmann) is one of Europe's major drugstore companies.</p>", unsafe_allow_html=True)
-
-        st.markdown("<p style='font-size:1rem'>The Rosemann pharmaceutical firm can examine sales estimates for its stores six weeks in advance, as well as projected patterns, thanks to this app, which is an end-to-end solution.</p>",unsafe_allow_html=True)
+    st.title('Rossmann Pharmaceuticals Sales Prediction')
+  
+    st.write("The finance team at Rossmann Pharmaceuticals wants to forecast sales in all their stores across several cities six weeks ahead of time. Managers in individual stores rely on their years of experience as well as their personal judgment to forecast sales. The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.Your job is to build and serve an end-to-end product that delivers this prediction to analysts in the finance team.")
