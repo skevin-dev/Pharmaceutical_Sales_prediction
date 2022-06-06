@@ -12,5 +12,5 @@ def app():
         st.markdown("<p style='font-size:1.8rem'>This challenge's data and feature description can be found at https://www.kaggle.com/c/rossmann-store-sales.</p>",unsafe_allow_html=True)
  
 
-        train = pd.read_csv('./data/test.csv')
+        train = pd.read_csv('./data/train.csv')
         st.write(train)
