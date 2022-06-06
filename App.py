@@ -10,8 +10,8 @@ The aim of this project is to predict the sales six weeks ahead across all the s
 """)
 
 # Add all your application here
-app.add_app("Home page", home.app)
-app.add_app("Data sets", display_traindataset.app)
+app.add_app("Homepage", home.app)
+app.add_app("Datasets", display_traindataset.app)
 
 # The main app
 app.run()
