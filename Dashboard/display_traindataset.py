@@ -26,6 +26,6 @@ def app():
         train = load_train()
         st.write(train, width=1200)
         
-        st.header('Testing Data')
+        st.header('Testing Datas')
         test = loadtest()
         st.write(test)
