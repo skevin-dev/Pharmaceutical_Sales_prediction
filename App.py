@@ -1,6 +1,6 @@
 import streamlit as st
 from multiapp import MultipleApp
-from apps import display_traindataset,home
+from Dashboard import display_traindataset,home
 
 app = MultipleApp()
 
