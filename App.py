@@ -1,17 +1,61 @@
-import streamlit as st
-from multiapp import MultipleApp
-from Dashboard import display_traindataset,home
+from dash import Dash, dash_table, dcc, html
+from dash.dependencies import Input, Output
+import dash_bootstrap_components as dbc
+import warnings
+import pandas as pd
+import pickle
+import os
 
-app = MultipleApp()
+warnings.filterwarnings("ignore")
+import mlflow
 
-st.sidebar.markdown('# **Pharmaceutical Sales forcasting**')
-st.sidebar.markdown("""
-The aim of this project is to predict the sales six weeks ahead across all the stores of the Rossman Pharmaceutical company using Machine and Deep Learning. The different factors affecting the sales are: promotions, competitions, school-state holiday, seasonality, and locality.
-""")
+app = Dash(__name__)
 
-# Add all your application here
-app.add_app("Homepage", home.app)
-app.add_app("Datasets", display_traindataset.app)
+# server = app.server
+params = ['Assortment', 'CompetitionDistance', 'CompetitionOpenSinceMonth',
+          'CompetitionOpenSinceYear', 'DayOfWeek', 'DayOfYear', 'Open', 'Promo',
+          'Promo2', 'Promo2SinceWeek', 'PromoInterval', 'SchoolHoliday',
+          'StateHoliday', 'Store', 'StoreType', 'Years', 'dayType']
 
-# The main app
-app.run()
+app.layout = html.Div(
+    [
+        html.Div(
+            [
+                html.H2('Pharmaceutical Sales Prediction',
+                        style={'textAlign': 'center', 'font_family': "Times New Roman", 'color': '#0F562F'}),
+            ]),
+        dbc.Row(
+            [
+                dbc.Col(
+                    [
+                        html.H3('Please input values for your stores to get the estimated sales predictions'),
+                        'You can read more about features explanation ',
+                        dcc.Link("here", href='https://www.kaggle.com/competitions/rossmann-store-sales/data')
+                    ]
+                )
+            ]),
+        dbc.Row(
+            [
+                dash_table.DataTable(
+                    id='sales_dataframe',
+                    columns=(
+                        [{'id': p, 'name': p} for p in params]
+                    ),
+                    data=[
+                        dict(Model=i, **{param: 0 for param in params})
+                        for i in range(1, 5)
+                    ],
+                    editable=True
+                )
+            ]),
+        dash_table.DataTable(id='dataframe_in'),
+        dbc.Row(
+            [
+                html.H3('Sales predictions Scaled on Train Sales (0-1)'),
+                dbc.Alert(id='predictions')
+            ])
+
+    ])
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
